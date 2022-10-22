@@ -102,6 +102,8 @@ Most of our app will be using flow navigation and not tab navigation. If we find
 ### Models
 |Property|Type|Description|
 |--------|----|-----------|
+|image|File|image that user posts|
+|caption|String|image caption by author|
 
 ### Networking
 - [Add list of network requests by screen ]
