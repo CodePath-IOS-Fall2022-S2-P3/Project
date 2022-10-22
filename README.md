@@ -100,7 +100,9 @@ Most of our app will be using flow navigation and not tab navigation. If we find
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+|Property|Type|Description|
+|--------|----|-----------|
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
