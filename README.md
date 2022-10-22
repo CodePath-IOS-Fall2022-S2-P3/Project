@@ -111,6 +111,18 @@ YouStudy
 
 
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+Most of our app will Read and Update and not Create or Delete
+* Login Screen
+    * (Read) Login user and verify user's login went correct
+* Sample Video Screen
+    * (Read) Get recommendations for sample videos
+* Main Video Screen With Recommendations
+    * (Read) Get video
+    * (Read) Get caption
+    * (Read) Get list of recommendations
+    * (Update) Add videos to playlists and update those playlists
+    * (BONUS - Create) Create new playlists
+* Profile Screen
+    * (Read) Get user's profile picture and playlists
+    * (Update) Show updated playlists
+    * (BONUS - Create) Create new playlists
