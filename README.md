@@ -100,10 +100,15 @@ Most of our app will be using flow navigation and not tab navigation. If we find
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
+YouStudy
 |Property|Type|Description|
 |--------|----|-----------|
 |image|File|image that user posts|
 |caption|String|image caption by author|
+|activity|Pointer to user|tells user what they did on the video|
+|channel|Pointer to user|tells the channel name|
+|comments|String|user gets to comment on a video|
+
 
 ### Networking
 - [Add list of network requests by screen ]
