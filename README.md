@@ -108,6 +108,15 @@ YouStudy
 |activity|Pointer to user|tells user what they did on the video|
 |channel|Pointer to user|tells the channel name|
 |comments|String|user gets to comment on a video|
+|videoId|String|gets name of video|
+|captions.download|list|retrieves caption for the video|
+
+Caption can be retreived using:
+GET https://www.googleapis.com/youtube/v3/captions
+
+Video can be retrieved using:
+GET https://www.googleapis.com/youtube/v3/videos
+
 
 
 ### Networking
