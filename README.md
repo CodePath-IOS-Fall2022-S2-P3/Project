@@ -136,5 +136,5 @@ Most of our app will Read and Update and not Create or Delete
     * (Update) Show updated playlists
     * (BONUS - Create) Create new playlists
     
-<img src='ProjectApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
