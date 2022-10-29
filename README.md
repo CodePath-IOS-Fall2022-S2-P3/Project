@@ -27,7 +27,7 @@ App that aggregates YouTube videos based on what subject you are studying. This 
 - **Scope:** The main point of this app is to keep students focused on their studies without getting bombarded by distracting irrelevant video reccomendations that eventually makes them go down a rabbit hole of procastination. 
 
 ## Product Spec
-
+ 
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
