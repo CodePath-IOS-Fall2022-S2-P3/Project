@@ -136,5 +136,6 @@ Most of our app will Read and Update and not Create or Delete
     * (Update) Show updated playlists
     * (BONUS - Create) Create new playlists
     
-<img src='Screenshot 2022-10-29 at 12.40.02 AM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![ProjectApp](https://user-images.githubusercontent.com/90231826/198814395-20f47dd7-b965-436f-8985-25fb37a4a77b.gif)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
