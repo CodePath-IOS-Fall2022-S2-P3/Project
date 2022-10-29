@@ -135,3 +135,6 @@ Most of our app will Read and Update and not Create or Delete
     * (Read) Get user's profile picture and playlists
     * (Update) Show updated playlists
     * (BONUS - Create) Create new playlists
+    
+<img src='Screenshot 2022-10-29 at 12.40.02 AM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
