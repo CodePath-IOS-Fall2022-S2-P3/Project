@@ -3,8 +3,7 @@ iOS Fall 2022 Session 2 Pod 3 Project Repository
 
 Original App Design Project - README Template
 ===
-<img src=''![ProjectApp](https://user-images.githubusercontent.com/90231826/198814494-05978bc0-3d11-495f-a37f-d66e6e201feb.gif)
- title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=''![ProjectApp](https://user-images.githubusercontent.com/90231826/198814494-05978bc0-3d11-495f-a37f-d66e6e201feb.gif) title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # YouStudy
