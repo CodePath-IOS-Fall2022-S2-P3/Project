@@ -34,17 +34,17 @@ App that aggregates YouTube videos based on what subject you are studying. This 
 
 **Required Must-have Stories**
 
-* Create table view with video recommendations
-* Streamline YouTube to prevent distractions while studying
-* Let users select subject and topics to curate videos for those.
-* Let users watch the video they have selected
-* Let users like videos and add them to playlists
-* Let users view a profile page where they can view the playlist of videos
-* Infinite scrolling for the recommendations and starter sample videos
+* [x] Create table view with video recommendations
+* [ ] Streamline YouTube to prevent distractions while studying
+* [ ] Let users select subject and topics to curate videos for those.
+* [ ] Let users watch the video they have selected
+* [ ] Let users like videos and add them to playlists
+* [ ] Let users view a profile page where they can view the playlist of videos
+* [ ] Infinite scrolling for the recommendations and starter sample videos
 
 **Optional Nice-to-have Stories**
 
-* Let users pick different themes for the app.
+* [ ] Let users pick different themes for the app.
 
 ### 2. Screen Archetypes
 
