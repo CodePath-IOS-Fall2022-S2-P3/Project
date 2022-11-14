@@ -6,7 +6,8 @@ Original App Design Project - README Template
 <img src=''![ProjectApp](https://user-images.githubusercontent.com/90231826/198814494-05978bc0-3d11-495f-a37f-d66e6e201feb.gif) title='Video Walkthrough' width=''
  alt='Video Walkthrough' />
 <img src=''![Project](https://user-images.githubusercontent.com/90231826/200102185-90c58deb-4398-4ed9-97e0-bd7c3a9fcb50.gif)) title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src=''<img width="1411" alt="Screenshot 2022-11-13 at 8 33 13 PM" src="https://user-images.githubusercontent.com/90231826/201557363-bcb66042-9a79-43a5-adef-4ce95822f370.png">
+) title='Video Walkthrough' width=''
 
 # YouStudy
 
